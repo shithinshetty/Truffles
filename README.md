@@ -63,5 +63,5 @@ Smooth & fast order...
 ![alt text](CafyImages/17.png)
 ![alt text](CafyImages/18.png)
 
-## Watch Demo
-https://youtu.be/_nO0KRIcJdw
+
+
