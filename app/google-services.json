@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101232512193",
+    "project_id": "cafe-eec84",
+    "storage_bucket": "cafe-eec84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101232512193:android:34a3e75335519ec25f1840",
+        "android_client_info": {
+          "package_name": "com.programmingtech.cafy_theofficecafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101232512193-0nb4e1d6jn64mq8kdu3s16q11ici2pij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuUp_0UO_b3dixQApTYKNL7PKFKIhIJKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101232512193-0nb4e1d6jn64mq8kdu3s16q11ici2pij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

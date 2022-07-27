@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/border_selected_option.xml" value="0.1" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/border_unselected_option.xml" value="0.1" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/circle.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/horizontal_line.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_add.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_arrow_upward.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_daily_order.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_delete_outline.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_email.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_employee_id.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_food_menu.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/ic_send.xml" value="0.1035" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/left_corner_curve.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/non_veg_indicator.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/drawable/veg_indicator.xml" value="0.104" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_contact_us.xml" value="0.22" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_gender_selection.xml" value="0.1" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_login_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_main.xml" value="0.4083333333333333" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_my_current_orders.xml" value="0.25" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_order_done.xml" value="0.18854166666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_orders_history.xml" value="0.18854166666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_payment.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_preview_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_register_user.xml" value="0.25" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_user_menu_order.xml" value="0.25" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/activity_user_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/current_order_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/fragment_q_r_code.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/list_menu_item.xml" value="0.25" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/nav_header.xml" value="0.21" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/order_record_item.xml" value="0.25" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/popup_forgot_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/saved_card_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/layout/selected_menu_bottom_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/CafyTheOfficeCafeteria-master/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/activity_login_user.xml" value="0.22" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/activity_main.xml" value="0.14583333333333334" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/activity_preview_details.xml" value="0.22" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/activity_register_user.xml" value="0.25" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/activity_splash_screen.xml" value="0.15104166666666666" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/activity_user_menu_order.xml" value="0.14583333333333334" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/list_menu_item.xml" value="0.15104166666666666" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/popup_forgot_password.xml" value="0.15104166666666666" />
+        <entry key="..\:/Truffles/app/src/main/res/layout/selected_menu_bottom_dialog.xml" value="0.15104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
