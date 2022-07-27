@@ -44,24 +44,7 @@ Smooth & fast order...
 11. For first time, it will ask for your gender. Choose your gender  
 12. Enjoy !  
 
-### Some Snapshots of this App  
-![alt text](CafyImages/1.png)
-![alt text](CafyImages/2.png)
-![alt text](CafyImages/3.png)
-![alt text](CafyImages/4.png)
-![alt text](CafyImages/5.png)
-![alt text](CafyImages/6.png)
-![alt text](CafyImages/7.png)
-![alt text](CafyImages/8.png)
-![alt text](CafyImages/9.png)
-![alt text](CafyImages/10.png)
-![alt text](CafyImages/11.png)
-![alt text](CafyImages/12.png)
-![alt text](CafyImages/13.png)
-![alt text](CafyImages/14.png)
-![alt text](CafyImages/15.png)
-![alt text](CafyImages/17.png)
-![alt text](CafyImages/18.png)
+
 
 
 
