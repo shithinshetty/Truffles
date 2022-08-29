@@ -1,0 +1,166 @@
+{
+  "canteen_info": {
+    "canteen_email": "cafycafeteria1234@gmail.com",
+    "canteen_number": 1234567890
+  },
+  "employees": {
+    "1rmkSiIfzdUyhpWNu7BK7a3eDoM2": {
+      "emp_id": "190236",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2F1rmkSiIfzdUyhpWNu7BK7a3eDoM2.jpeg?alt=media&token=fe6b62df-a223-426c-b8a6-56ef21132323"
+      },
+      "gender": "male",
+      "mobile_no": "8523253685",
+      "organization": "jss",
+      "reg_date": "07-Jul-2022",
+      "reg_id": "US76293"
+    },
+    "3wK5vp7fwyawc83rexn9PI3bNx12": {
+      "emp_id": "1234",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2F3wK5vp7fwyawc83rexn9PI3bNx12.jpeg?alt=media&token=93cf3ae1-ca1c-459f-93f3-9b1a30806851"
+      },
+      "gender": "none",
+      "mobile_no": "9535958896",
+      "reg_date": "12-Jul-2022",
+      "reg_id": "RL82088"
+    },
+    "OOz342T1eLhvA3QEJo650IyVfcV2": {
+      "emp_id": "101",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2FOOz342T1eLhvA3QEJo650IyVfcV2.jpeg?alt=media&token=f06b22e3-9ddc-485e-a99a-1e20086f4fbf"
+      },
+      "gender": "male",
+      "mobile_no": "7337066464",
+      "reg_date": "12-Jul-2022",
+      "reg_id": "SS35841"
+    },
+    "UcGMtOPMRNOsA0AeZ5uIj29iLua2": {
+      "emp_id": "45",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2FUcGMtOPMRNOsA0AeZ5uIj29iLua2.jpeg?alt=media&token=9e784cc8-5c25-4c47-9c7e-8819a1676ccd"
+      },
+      "gender": "male",
+      "mobile_no": "9535958896",
+      "reg_date": "12-Jul-2022",
+      "reg_id": "SM59740"
+    },
+    "VIHi3qxMfxR7cuAkkFRBsPHUXfJ2": {
+      "emp_id": "shithin",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2FVIHi3qxMfxR7cuAkkFRBsPHUXfJ2.jpeg?alt=media&token=dba258bd-e8de-4c7a-b3ed-569fbb76afe9"
+      },
+      "gender": "male",
+      "mobile_no": "7337703834",
+      "organization": "shithin",
+      "reg_date": "07-Jul-2022",
+      "reg_id": "SS27875"
+    },
+    "eFNU58f6L1ZqDtB98vFMeGGrHvp2": {
+      "emp_id": "1234",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2FeFNU58f6L1ZqDtB98vFMeGGrHvp2.jpeg?alt=media&token=47d62095-5cbf-4671-bef5-c4ab14efa727"
+      },
+      "gender": "female",
+      "mobile_no": "2554485667",
+      "reg_date": "18-Jul-2022",
+      "reg_id": "SI98886"
+    },
+    "itSe1CNiUCRrP5tC2AKkSoUfWe93": {
+      "emp_id": "100",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2FitSe1CNiUCRrP5tC2AKkSoUfWe93.jpeg?alt=media&token=c27c9d6e-804c-430d-b07c-bcf9f758f9d2"
+      },
+      "gender": "male",
+      "mobile_no": "9999431621",
+      "reg_date": "12-Jul-2022",
+      "reg_id": "UH67102"
+    },
+    "qxyyUqCrAKUsJiOJH61ezCsBkDm2": {
+      "emp_id": "100",
+      "emp_id_card_uri": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/employeeIdCards%2FqxyyUqCrAKUsJiOJH61ezCsBkDm2.jpeg?alt=media&token=760ab4d2-eded-4f95-ae79-2c9081f5cd54"
+      },
+      "gender": "male",
+      "mobile_no": "9023490324",
+      "organization": "ulli",
+      "reg_date": "08-Jul-2022",
+      "reg_id": "US64665"
+    }
+  },
+  "food_menu": [
+    null,
+    {
+      "item_category": "Burger",
+      "item_desc": "It’s juicy, meaty, greasily satisfying, which you love it",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafy---the-office-cafeteria.appspot.com/o/foodMenuItems%2F1.jpg?alt=media&token=08d8c384-bf25-455c-8444-99925a12217c",
+      "item_name": "Cheese Burger",
+      "item_price": 1,
+      "stars": 4.5
+    },
+    {
+      "item_category": "Cold drinks",
+      "item_desc": "Fresh refreshing, cool medium size Coca Cola",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafy---the-office-cafeteria.appspot.com/o/foodMenuItems%2F2.jpg?alt=media&token=2ffb18b4-ef95-4c7b-927a-4ef0c1799efb",
+      "item_name": "Coca Cola (500ml)",
+      "item_price": 0.8,
+      "stars": 4
+    },
+    {
+      "item_category": "Extras",
+      "item_desc": "Hot savory chicken, white fluffy rice with rich flavor.",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafy---the-office-cafeteria.appspot.com/o/foodMenuItems%2F52.jpg?alt=media&token=f09501d3-d142-45e5-b976-eaefd58061cb",
+      "item_name": "Chicken Biryani (Per Plate)",
+      "item_price": 3.22,
+      "stars": 4.6
+    },
+    {
+      "item_category": "Soup",
+      "item_desc": "Slowly Cooked Chicken with Vegie garnishes",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/foodMenuItems%2F11.jpg?alt=media&token=9c5e5fd6-4338-426f-8286-c54131f44da9",
+      "item_name": "Chicken Stew Manchow",
+      "item_price": 2,
+      "stars": 4.5
+    },
+    {
+      "item_category": "Thali",
+      "item_desc": "A variety of  authentic Indian Cuisine dishes ",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/foodMenuItems%2Fdownload.jpg?alt=media&token=e1812859-38a6-478a-955d-9f76f94b7607",
+      "item_name": "South Indian Thali",
+      "item_price": 1.5,
+      "stars": 4
+    },
+    {
+      "item_category": "Cold drinks",
+      "item_desc": "A refreshing Orange Soda ",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/foodMenuItems%2FOIP%20(2).jpg?alt=media&token=80e4680d-1135-41c0-85ae-aab29489d333",
+      "item_name": "Fanta",
+      "item_price": 0.8,
+      "stars": 4
+    },
+    {
+      "item_category": "Cake",
+      "item_desc": "A delight for your taste buds ",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/foodMenuItems%2FOIP%20(3).jpg?alt=media&token=f397bdbc-7d71-446a-9b8a-f2396b9544f0",
+      "item_name": "Chocolate Truffles",
+      "item_price": 0.8,
+      "stars": 4
+    },
+    {
+      "item_category": "Fruits",
+      "item_desc": "An Apple a Day Keeps the Doctor Away (100 gms) ",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/foodMenuItems%2Fapple.jpg?alt=media&token=7f698939-6da1-4255-9164-03a086e1128e",
+      "item_name": "Apple",
+      "item_price": 0.9,
+      "stars": 3
+    },
+    {
+      "item_category": "Fruits",
+      "item_desc": "Hygiene and healthy (200 gms)",
+      "item_image_url": "https://firebasestorage.googleapis.com/v0/b/cafe-eec84.appspot.com/o/foodMenuItems%2Forange.jpg?alt=media&token=28ce327b-7aa5-4f1f-8cf8-21bba188a041",
+      "item_name": "Orange",
+      "item_price": 0.9,
+      "stars": 5
+    }
+  ]
+}
